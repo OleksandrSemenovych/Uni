@@ -126,7 +126,6 @@
 				"D:/Universitate/Uni/ResitQuest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/32/8OWMYR2P598X92JJMSIBFY.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UG/AGW7IT4BDHYMO40LUGEWJ5.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JJ/5CQM2WAOJW2S34SZHW3KYP.uasset",
-				"D:/Universitate/Uni/ResitQuest/Content/MiniMapMaterial.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/MiniMapMaterial.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/NewTextureRenderTarget2DMiniMap.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/WB_MiniMap.uasset",
@@ -140,6 +139,11 @@
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/arrow_Image-removebg-preview_Sprite.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/green-arrow-removebg-preview.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/MiniMap/green-arrow-removebg-preview_Sprite.uasset",
+				"D:/Universitate/Uni/ResitQuest/Content/PauseMenu/WP_PauseMenu.uasset",
+				"D:/Universitate/Uni/ResitQuest/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
+				"D:/Universitate/Uni/ResitQuest/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Universitate/Uni/ResitQuest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WO/XD1C68WXDDBHZUYSX19AU1.uasset",
+				"D:/Universitate/Uni/ResitQuest/Content/MiniMapMaterial.uasset",
 				"D:/Universitate/Uni/ResitQuest/Content/Mission_Details/NewBlueprint.uasset"
 			]
 		}
